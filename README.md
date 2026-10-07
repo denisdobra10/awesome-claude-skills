@@ -168,6 +168,8 @@
 - [Vox Director](https://github.com/Alisa0808/vox-director) - Turn one topic into a finished Vox-style paper-collage explainer or ad video.
 - [claude-video-plus](https://github.com/abe238/claude-video-plus) - Ask a video a question and retrieve only the chapters, facts, and on-screen moments that answer it.
 - [ai-shortfilm-prompts](https://github.com/jnMetaCode/ai-shortfilm-prompts) - Turn any idea into a cinematic, model-ready video prompt for Sora, Kling, Veo, or Seedance.
+- [video-kit](https://github.com/Dodera-Software/claude-plugins/tree/main/plugins/video-kit) - Makes launch videos, feature teasers, social clips and what's-new videos for your product from its code, its website or just an idea, rendered in 4K with Remotion.
+- [pr-podcast](https://github.com/Dodera-Software/claude-plugins/tree/main/plugins/pr-podcast) - Turns a pull request, today's commits, a release or a date range into a 3–5 minute two-voice audio episode (what changed, why, what's risky), recorded locally with free Kokoro voices.
 - [bria-ai](https://github.com/Bria-AI/bria-skill/tree/main/skills/bria-ai) - Generate, edit, and remove image backgrounds via the Bria.ai API — text-to-image, natural-language edits, and transparent PNGs.
 
 
